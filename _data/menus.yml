@@ -1,50 +1,51 @@
 main:
-  - name: "Home"
+  - name: "Accoglienza"
     url: "/"
     weight: 1
-  - name: "About"
-    url: "/about/"
+  - name: "A Proposito"
+    url: "/proposito/"
     weight: 2
-  - name: "Services"
-    url: "/services/"
+  - name: "Servizi"
+    url: "/servizi/"
     weight: 3
-  - name: "Contact"
-    url: "/contact/"
+  - name: "Contatto"
+    url: "/contatto/"
     weight: 5
+  - name: "/en"
+    url: "https://expo.generatedart.com"
+    weight: 6
   - name: "/es"
     url: "https://expo.es.generatedart.com"
-    weight: 6
+    weight: 7
   - name: "/pt"
     url: "https://expo.pt.generatedart.com"
-    weight: 7
+    weight: 8
   - name: "/fr"
     url: "https://expo.fr.generatedart.com"
-    weight: 8
+    weight: 9
   - name: "/de"
     url: "https://expo.de.generatedart.com"
-    weight: 9
-  - name: "/it"
-    url: "https://expo.it.generatedart.com"
     weight: 10
 
 footer:
-  - name: "Main site"
+  - name: "Sito principale"
     url: "https://generatedart.com"
     weight: 1
   - name: "Shop"
     url: "https://shop.generatedart.com"
     weight: 2
-  - name: "Exposition"
+  - name: "Esposizione"
     url: "https://expo.generatedart.com"
     weight: 3
-  - name: "Decoration"
-    url: "https://deco.generatedart.com"
+  - name: "Decorazione"
+    url: "https://deco.it.generatedart.com"
     weight: 4
-  - name: "Research"
+  - name: "Ricerca"
     url: "https://medium.com/generatedart"
     weight: 5
-  - name: "Apply"
-    url: "/apply/"
+  - name: "Applicare"
+    url: "/applicare/"
     weight: 6
+
 
 
