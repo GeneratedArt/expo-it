@@ -1,7 +1,7 @@
 ---
-title: Contatti
+title: Contatto
 layout: contact
-description: Contatti
+description: Contatto
 ---
 
 Grazie per voler unirti a noi nel nostro viaggio nell'arte generativa! Se hai domande o richieste generali, non esitare a contattarci tramite email o tramite il modulo qui sotto. Saremo lieti di ascoltarti e assisterti in qualsiasi modo possibile.
