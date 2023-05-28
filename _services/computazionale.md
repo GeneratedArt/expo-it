@@ -1,12 +1,12 @@
 ---
-title: "Computational"
+title: "Computazionale"
 date: 2018-12-28T15:14:39+10:00
 weight: 8
 ---
 
 I servizi computazionali nell'arte generativa aprono possibilità come l'arte AI con reti neurali, grafica interattiva in tempo reale, rendering 2D/3D e sviluppo di algoritmi complessi per esperienze visive accattivanti.
 
-![Computational](/images/illustrations/computational.png)
+![Computazionale](/images/illustrations/computational.png)
 
 Dotato di competenze in metodi computazionali e arte generativa, il nostro team può fornire soluzioni innovative e all'avanguardia per qualsiasi progetto, aiutando a dare vita alla tua visione artistica in modi che non avresti mai pensato possibili.
 
